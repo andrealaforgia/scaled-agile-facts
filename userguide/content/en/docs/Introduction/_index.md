@@ -8,7 +8,7 @@ Now that Agile passed the early adopter stage, there are many companies interest
 
 Many of the larger companies and novice practitioners look at the marketing from [SAFe](https://www.scaledagileframework.com/), and they don’t know if they can trust it or not. 
 
-In this document members of the Agile community are collecting available information including on these marketing stories. 
+On this site members of the Agile community are collecting available information including on these marketing stories. 
 
 Some practitioners have been there and know the difference between marketing and real stories, others know not only how things started yet also how things are going now.
 
