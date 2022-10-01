@@ -1,9 +1,13 @@
 ---
 title: Case Studies
-weight: 4
+weight: 7
 description: 
 ---
 
-It is not uncommon in IT for a marketing department to offer special discounts or other benefits to customers, in exchange for permission to publish a successful case study, regardless of any actual success. The case studies below have been selected because they have been scrutinised: verified with multiple sources or coming from sources that are less likely to have a vested interest.
+So far all the SAFe case studies that allow for some form of verification or third-party observations all show that SAFe does not make the organisation more agile, it worsened the shortcomings that are typical of the pre-Agile approaches, and overall makes things worse.
+
+It is also known that SAFe isn’t used by any leading software commercial organisations such as Facebook, Google, Netflix, Microsoft, and the like.
+
+This overall picture is congruent with the growing number of anecdotal evidence emerging from Sr leaders and employees sharing stories about their previous companies where SAFe was adopted. 
 
 

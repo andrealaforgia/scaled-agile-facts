@@ -1,6 +1,6 @@
 ---
 title: FitBit
-weight: 7
+weight: 6
 description: 
 ---
 

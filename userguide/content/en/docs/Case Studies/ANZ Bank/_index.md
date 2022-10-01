@@ -1,6 +1,6 @@
 ---
 title: ANZ Bank
-weight: 6
+weight: 5
 description: 
 ---
 
