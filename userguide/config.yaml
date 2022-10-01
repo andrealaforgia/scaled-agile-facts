@@ -1,5 +1,5 @@
 baseURL: /
-title: Docsy Example
+title: Scaled Agile Facts
 enableRobotsTXT: true
 theme: [docsy]
 enableGitInfo: true
@@ -21,9 +21,14 @@ imaging:
 
 menu:
   main:
-    - name: Example Site
+  #   - name: Example Site
+  #     weight: 40
+  #     url: https://example.docsy.dev
+  #     post: <sup><i class="pl-1 fa-solid fa-up-right-from-square fa-xs"
+  #       aria-hidden="true"></i></sup>
+    - name: GitHub
       weight: 40
-      url: https://example.docsy.dev
+      url: https://github.com/andrealaforgia/scaled-agile-facts
       post: <sup><i class="pl-1 fa-solid fa-up-right-from-square fa-xs"
         aria-hidden="true"></i></sup>
 
@@ -72,7 +77,7 @@ params:
     sidebar_search_disable: false
     navbar_logo: true
     feedback:
-      enable: true
+      enable: false
       'yes': >-
         Glad to hear it! Please <a
         href="https://github.com/google/docsy/issues/new">tell us how we can
@@ -85,25 +90,25 @@ params:
       enable: false
   links:
     user:
-      - name: GitHub Discussions
-        url: https://github.com/google/docsy/discussions
-        icon: fa-brands fa-github
-        desc: Discussion and help from your fellow users
-      - name: User mailing list
-        url: https://groups.google.com/forum/#!forum/docsy-users
-        icon: fa-solid fa-envelope
-        desc: Sign up for Docsy announcements
-      - name: Twitter
-        url: https://twitter.com/docsydocs
-        icon: fa-brands fa-twitter
-        desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://stackoverflow.com/questions/tagged/docsy
-        icon: fa-brands fa-stack-overflow
-        desc: Practical questions and curated answers
+      # - name: GitHub Discussions
+      #   url: https://github.com/google/docsy/discussions
+      #   icon: fa-brands fa-github
+      #   desc: Discussion and help from your fellow users
+      # - name: User mailing list
+      #   url: https://groups.google.com/forum/#!forum/docsy-users
+      #   icon: fa-solid fa-envelope
+      #   desc: Sign up for Docsy announcements
+      # - name: Twitter
+      #   url: https://twitter.com/docsydocs
+      #   icon: fa-brands fa-twitter
+      #   desc: Follow us on Twitter to get the latest news!
+      # - name: Stack Overflow
+      #   url: https://stackoverflow.com/questions/tagged/docsy
+      #   icon: fa-brands fa-stack-overflow
+      #   desc: Practical questions and curated answers
     developer:
       - name: GitHub
-        url: https://github.com/google/docsy
+        url: https://github.com/andrealaforgia/scaled-agile-facts
         icon: fa-brands fa-github
         desc: Development takes place here!
 
