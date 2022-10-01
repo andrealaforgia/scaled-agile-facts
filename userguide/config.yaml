@@ -38,8 +38,8 @@ services:
 
 languages:
   en:
-    title: Docsy
-    description: Docsy does docs
+    title: Scaled Agile Facts
+    description: 
     languageName: English
     weight: 1
 
@@ -51,7 +51,7 @@ markup:
     style: tango
 
 params:
-  copyright: The Docsy Authors
+  copyright: (Authors)
   privacy_policy: https://policies.google.com/privacy
   version_menu: Releases
   archived_version: false
