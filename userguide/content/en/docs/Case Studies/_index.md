@@ -1,6 +1,6 @@
 ---
 title: Case Studies
-weight: 7
+weight: 4
 description: 
 ---
 
