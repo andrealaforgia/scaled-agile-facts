@@ -2,20 +2,22 @@
 <footer class="bg-dark py-5 row d-print-none">
   <div class="container-fluid mx-sm-5">
     <div class="row">
-      <div class="col-4 col-sm-4 text-right text-xs-center order-sm-3">
+      <div class="col-1 col-sm-1 text-left text-xs-center order-sm-3">
+      </div>
+      <div class="col-10 col-sm-10 text-center py-2 order-sm-2">
+        {{ with .Site.Params.license }}<small class="text-white">{{ .}}</small>
+        {{ end }}
+      </div>
+      <div class="col-1 col-sm-1 text-right text-xs-center order-sm-3">
         {{ with $links }}
         {{ with index . "developer"}}
         {{ template "footer-links-block" . }}
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-8 col-sm-8 text-center py-2 order-sm-2">
-        {{ with .Site.Params.license }}<small class="text-white">{{ .}}</small>
-        {{ end }}
-      </div>
     </div>
     <div class="row">
-      <div class="col-8 col-sm-8 text-center py-2 order-sm-2">
+      <div class="col-12 col-sm-12 text-center py-2 order-sm-2">
         <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" />
       </div>
     </div>
