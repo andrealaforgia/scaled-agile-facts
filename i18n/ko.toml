@@ -20,10 +20,10 @@ other = "in"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "All Rights Reserved"
+other = "This work is licensed under a Creative Commons Attribution-Share Alike 4.0 International License."
 
 [footer_privacy_policy]
-other = "개인정보 보호 정책"
+other = ""
 
 
 # Post (blog, articles etc.)
