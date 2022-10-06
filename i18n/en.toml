@@ -22,7 +22,7 @@ other = "all"
 
 # Footer text
 [footer_all_rights_reserved]
-other = "This work is licensed under a Creative Commons Attribution-Share Alike 4.0 International License."
+other = ""
 
 [footer_privacy_policy]
 other = ""
