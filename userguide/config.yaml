@@ -51,8 +51,9 @@ markup:
     style: tango
 
 params:
-  copyright: (Authors)
-  privacy_policy: https://policies.google.com/privacy
+  # copyright: (Authors)
+  # privacy_policy: https://policies.google.com/privacy
+  license: This work is licensed under a Creative Commons Attribution-Share Alike 4.0 International License.
   version_menu: Releases
   archived_version: false
   version: 0.4.0
