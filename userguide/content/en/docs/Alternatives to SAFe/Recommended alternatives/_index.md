@@ -14,7 +14,7 @@ Your chances of success are greatly increased by taking inspiration from these e
 
 - Using a people-centred approach where employees are invited to participate in the adoption and where autonomy to individuals and teams is increased, has worked well too.
 
-- Building on the previous point, ​​a focus on team autonomy, coupled with alignment to clear customer outcomes and wrapped up with lightweight governance, instead of the hierarchical and complex SAFe approach, is certainly a more effective way of scaling agile across an organisation.
+- Building on the previous point, ​​a focus on team autonomy, coupled with alignment to clear customer outcomes and wrapped up with lightweight governance, instead of the hierarchical and complex [SAFe](https://www.scaledagileframework.com/) approach, is certainly a more effective way of scaling agile across an organisation.
 
 - What has also worked well is a focus on descaling the problem. For example, through modularisation, aligning teams and the organisation along individual products and services and more in general along value-streams (take a look at Team Topologies for an in-depth Introduction on this). And also through technical excellence reducing and relaxing cross-team dependencies, 
 

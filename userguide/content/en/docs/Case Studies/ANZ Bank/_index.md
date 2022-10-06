@@ -8,7 +8,7 @@ ANZ, Australia and New Zealand Banking Group Limited is an Australian multinatio
 
 In 2017, CEO Shayne Elliott wanted to reshape the bank’s staid culture to give ANZ customers more and faster by introducing Agile. Shayne Elliott was taking inspiration from what technology companies from Amazon to Microsoft did and what some banks such as ING and ABN Amro had been doing although with mixed results.
 
-To do that Shayne Elliott focused on processes by rolling out SAFe across its Australian division, and on tools: by an enterprise agreement with Atlassian for the use of Jira and Confluence.
+To do that Shayne Elliott focused on processes by rolling out [SAFe](https://www.scaledagileframework.com/) across its Australian division, and on tools: by an enterprise agreement with Atlassian for the use of Jira and Confluence.
 
 Five years later the bank’s home loan approval systems have become one of the slowest in Australia, and as a result, ANZ lost a substantial share of the $2 trillion mortgage market, its share price is down 17 per cent since Elliott became CEO seven years ago. And its technology systems lag behind its biggest competitors.
 

@@ -15,7 +15,7 @@ Two academic case studies by the Chalmers University Of Technology also confirm 
 
 Three years later, Volvo Cars is still using [SAFe](https://www.scaledagileframework.com/) in several parts of the organisation.
 In September 2022, an internal source confirmed that a whole department in Volvo dropped [SAFe](https://www.scaledagileframework.com/) after it became obvious to them it wasn't adding value.
-Since then the teams were functioning in a fairly Agile way in spite of the SAFe limitations: the PI planning was becoming mostly for show and the real organisation of the work and the collaboration was happening much more fluidly; the program board was adding very little value in the face of the significant effort spent for it.
+Since then the teams were functioning in a fairly Agile way in spite of the [SAFe](https://www.scaledagileframework.com/) limitations: the PI planning was becoming mostly for show and the real organisation of the work and the collaboration was happening much more fluidly; the program board was adding very little value in the face of the significant effort spent for it.
 
 This change involved 11 teams and just over 100 people including Product Owners, Software Developers, UX designers, graphic designers, subject matter experts, etc.
 They wanted to honour how the teams want to continuously plan and not just how they want to work, empowering teams to apply pressure upwards through the organisation in order to continuously improve.
