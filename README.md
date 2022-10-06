@@ -2,4 +2,4 @@
 
 # Scaled Agile Facts
 
-...
+A collection of community experiences, facts, opinions about "Scaled Agile" frameworks and practices.
