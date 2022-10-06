@@ -8,8 +8,8 @@ Ken Schwaber and Jeff Sutherland are part of the group of authors of the Agile M
 
 As mentioned before they both criticise [SAFe](https://www.scaledagileframework.com/). 
 
-Ken Schwaber equates [SAFe](https://www.scaledagileframework.com/) to RUP, an abandoned heavyweight methodology.
-He comments further saying that a core premise of Agile is that the people doing the work are the people who can best figure out how to do it. And that the job of management is to do anything to help them do so, not suffocate them with [SAFe](https://www.scaledagileframework.com/).
+Ken Schwaber equates SAFe to RUP, an abandoned heavyweight methodology.
+He comments further saying that a core premise of Agile is that the people doing the work are the people who can best figure out how to do it. And that the job of management is to do anything to help them do so, not suffocate them with SAFe.
 
 Jeff Sutherland says that he finds scaling frameworks like SAFe overly prescriptive and limited in their efficacy.
 

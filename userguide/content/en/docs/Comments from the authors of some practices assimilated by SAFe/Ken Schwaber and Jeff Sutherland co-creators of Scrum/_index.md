@@ -8,9 +8,9 @@ Ken Schwaber and Jeff Sutherland are two of the creators of the Scrum, and co-au
 
 They both criticise [SAFe](https://www.scaledagileframework.com/), as detailed later in the document. 
 
-Jeff Sutherland in particular says that [SAFe](https://www.scaledagileframework.com/) is inconsistent with the Scrum guide and codifies dysfunctions that can cripple teams for years.
+Jeff Sutherland in particular says that SAFe is inconsistent with the Scrum guide and codifies dysfunctions that can cripple teams for years.
 
-Ken Schwaber says that there is a fundamental philosophical schism between Scrum and [SAFe](https://www.scaledagileframework.com/) because Scrum controls risk through empiricism while [SAFe](https://www.scaledagileframework.com/) tries to control risk through predictability.
+Ken Schwaber says that there is a fundamental philosophical schism between Scrum and SAFe because Scrum controls risk through empiricism while SAFe tries to control risk through predictability.
 
 References: 
 - https://kenschwaber.wordpress.com/2013/08/06/unsafe-at-any-speed/ 

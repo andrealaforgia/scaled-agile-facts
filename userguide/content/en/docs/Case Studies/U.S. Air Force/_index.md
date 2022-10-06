@@ -8,7 +8,7 @@ In December 2019, Nicolas M. Chaillan then Chief Software Officer at the U.S. Ai
 
 The memorandum concluded by strongly discouraging the use of rigid, prescriptive frameworks such as [SAFe](https://www.scaledagileframework.com/). 
 
-In a highly publicised move, Scaled Agile Inc offered free consulting to address the concerns from the memorandum. Later the USAF CSO confirmed the conclusions from the memorandum were still standing, and [SAFe](https://www.scaledagileframework.com/) was still strongly discouraged and will not be used in any form in their DevSecOps Initiative.
+In a highly publicised move, Scaled Agile Inc offered free consulting to address the concerns from the memorandum. Later the USAF CSO confirmed the conclusions from the memorandum were still standing, and SAFe was still strongly discouraged and will not be used in any form in their DevSecOps Initiative.
 
 References:
 

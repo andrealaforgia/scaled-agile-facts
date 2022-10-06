@@ -4,6 +4,6 @@ weight: 6
 description: 
 ---
 
-A small significant sample of former [SAFe](https://www.scaledagileframework.com/) experts, some instrumental in shaping [SAFe](https://www.scaledagileframework.com/).
+A small significant sample of former [SAFe](https://www.scaledagileframework.com/) experts, some instrumental in shaping SAFe.
 
 

@@ -17,7 +17,5 @@ Martin North, the founder of DFA Analytics, says “I don’t rate ANZ as an agi
 References:
 
 - https://www.cio.com/article/213835/anz-bank-goes-all-in-with-scaled-agile-approach.html 
-
 - https://www.arnnet.com.au/article/646310/anz-taps-atlassian-agile-push/ 
-
 - https://www.smh.com.au/business/banking-and-finance/shayne-s-world-how-shayne-elliott-s-agile-anz-got-stuck-20220822-p5bbsz.html 
